@@ -1,2 +1,2 @@
 # homepage-adminform
-A sample homepage form and admission form for my school using HTML
+A sample homepage form and admission form for my school using HTML.
